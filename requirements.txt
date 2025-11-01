@@ -11,3 +11,4 @@ gunicorn==21.2.0
 python-dotenv==1.0.0
 openai==0.28.1
 folium==0.14.0
+setuptools
